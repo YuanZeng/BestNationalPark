@@ -2,7 +2,7 @@
 
 ### Around Redlands
 National Park Name          # of votes
-- Joshua Tree               123
+- Joshua Tree               124
 - Death Valley              321
 - Zion                      530
 - Bryce Canyon              400
@@ -18,3 +18,6 @@ National Park name          # of votes
 - Rocky Mountain            600
 - Grand Teton               600
 - Glacier                   500
+
+Note: add my vote for Joshua Tree. 
+
