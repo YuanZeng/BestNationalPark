@@ -5,8 +5,9 @@ We will use this project to vote for the best national parks, and recommend thos
 
 For example:
 
-Name:                    # of Votes
-- Yosemite                     109
-- Yellow Stone                 248
-- Joshua Tree                  246
-- Grand Canyon                 563
+| Name            | # of Votes |
+| --------------- | ---------- |
+| Yosemite        | 109        |
+| Yellow Stone    | 248        |
+| Joshua Tree     | 246        |
+| Grand Canyon    | 563        |
